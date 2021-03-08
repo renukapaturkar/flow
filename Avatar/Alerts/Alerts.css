@@ -1,0 +1,21 @@
+.alert{
+    background-color: aliceblue;
+    height: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 50%;
+    padding: 0.5rem 0.5rem 0.5rem 2rem;
+    border-radius: 10px;
+
+
+}
+
+.alert--icon {
+    padding: 0.5rem;
+}
+
+.alert--red {
+    background-color: red;
+    color:white;
+}
